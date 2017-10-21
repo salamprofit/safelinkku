@@ -1,0 +1,2 @@
+# safelinkku
+script safelinku
